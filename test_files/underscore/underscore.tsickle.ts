@@ -14,13 +14,12 @@ class __Class {
 __method(__arg: string): string {
     return this.__member;
   }
+}
 
-  static _tsickle_typeAnnotationsHelper() {
+// tsickle type annotations
  /** @type {string} */
 __Class.prototype.__member;
-  }
 
-}
 /** @record */
 function __Interface() {}
 
